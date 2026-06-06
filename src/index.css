@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-gradient-to-b from-[#807ECE] to-[#807ECE] text-text font-rubik min-h-screen;
+  }
+}
